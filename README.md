@@ -7,4 +7,5 @@
  <img src ="https://github.com/Sadraw/Roll-the-Dice/blob/main/images/rollthedice.gif"/>
 </p>
 
-<p align="center"> [Youtube Link](https://www.youtube.com/watch?v=HuEBqPpQkMw) </p>
+ 
+[Youtube Link](https://www.youtube.com/watch?v=HuEBqPpQkMw) 
